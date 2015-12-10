@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 57.183002" version="1.1">
-<g transform="translate(-351.98213,-78.363175)">
-<g fill="#333" transform="matrix(1.2996183,0,0,1.2996138,-120.44121,-17.832957)">
-<path d="m50.000004,42.584434,37.224669-31.057268-74.449339,0,37.22467,31.057268" transform="translate(351.98213,62.491848)"/>
-<path d="m363.5093,77.049851,36.19677,30.249629,4.47871,0,36.27019-30.249629,0,40.969159-76.94567,0,0-40.969159"/>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="57.183" width="100" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 100 57.183002">
+<g transform="translate(-351.98 -78.363)">
+<g fill="#333" transform="matrix(1.2996 0 0 1.2996 -120.44 -17.833)">
+<path d="m50 42.584 37.225-31.057h-74.449l37.225 31.057" transform="translate(351.98 62.492)"/>
+<path d="m363.51 77.05 36.197 30.25h4.4787l36.27-30.25v40.969h-76.946v-40.969"/>
 </g>
 </g>
 </svg>
