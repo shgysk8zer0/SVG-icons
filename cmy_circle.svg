@@ -1,7 +1,1 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100" width="100" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 100.00065 100.00038">
-<g transform="translate(.0010834 -952.36)">
-<path fill="#ff0" d="m-17.501-4.3866a18.65 20.418 0 0 1 -27.975 17.682l9.325-17.682z" transform="matrix(.0021221 -2.681 2.4489 .0019384 60.819 905.45)"/>
-<path fill="#0ff" d="m-53.608 1.2892a14.761 16.352 0 0 1 0 -28.322l7.3804 14.161z" transform="matrix(.0026812 -3.3873 3.0578 .0024204 89.483 845.81)"/>
-<path fill="#f0f" d="m37.123-26.332a8.4853 7.0711 0 0 1 12.728 6.1237h-8.4853z" transform="matrix(.0046642 -5.8926 7.0711 .0055971 192.7 1246.2)"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="100" width="100" viewBox="0 0 100.00065 100.00038"><path fill="#ff0" d="M50.04.002a50.002 50 .054 0 1 43.243 75.035L50 50.002z"/><path fill="#0ff" d="M93.282 75.04a50 50 .05 0 1-86.603-.07L50 50.007z"/><path fill="#f0f" d="M6.678 74.942A50 50-.606 0 1 50.038-.025l-.04 50z"/></svg>

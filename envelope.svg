@@ -1,8 +1,1 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="57.183" width="100" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 100 57.183002">
-<g transform="translate(-351.98 -78.363)">
-<g fill="#333" transform="matrix(1.2996 0 0 1.2996 -120.44 -17.833)">
-<path d="m50 42.584 37.225-31.057h-74.449l37.225 31.057" transform="translate(351.98 62.492)"/>
-<path d="m363.51 77.05 36.197 30.25h4.4787l36.27-30.25v40.969h-76.946v-40.969"/>
-</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="57.183" width="100" viewBox="0 0 100 57.183002"><g fill="#333"><path d="M49.993 40.36L98.37 0H1.618l48.378 40.36"/><path d="M-.002 3.938l47.04 39.313h5.822L99.996 3.94V57.18h-100V3.94"/></g></svg>

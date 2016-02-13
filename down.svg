@@ -1,3 +1,1 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 100 100" width="100%" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<path fill-opacity=".90588" fill="#333" d="m33.75 0.8125v49.156h-33.75l50.406 50 49.594-50h-32.906v-49.156h-33.344z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill-opacity=".906" fill="#333" d="M33.75.813v49.155H0l50.406 50 49.594-50H67.094V.814H33.75z"/></svg>

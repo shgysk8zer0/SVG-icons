@@ -1,5 +1,1 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198.001 198" height="100%" width="100%" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<g transform="translate(-112.34 -315.91)">
-<path stroke="#009800" stroke-width="4.5" fill="#54ff00" d="m114.59 450.91 13.5-18 62.361 41.139c23.444-74.889 65.264-124.69 101.89-155.89l15.75 18c-39.978 31.18-94.877 106.75-101.25 175.5z"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198.001 198"><path stroke="#009800" stroke-width="4.5" fill="#54ff00" d="M2.25 135l13.5-18 62.36 41.14C101.556 83.25 143.376 33.45 180 2.25l15.75 18C155.774 51.43 100.875 127 94.5 195.75z"/></svg>

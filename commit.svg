@@ -1,9 +1,1 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="122.51" width="168.58" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 168.57699 122.50722">
-<g transform="translate(-12.5 -930.07)">
-<g transform="translate(48.244 -11.035)" stroke="#000" fill="none">
-<path stroke-width="85.345" d="m462.86 475.22c0 89.944-75.472 162.86-168.57 162.86-93.099 0-168.57-72.914-168.57-162.86 0-89.944 75.472-162.86 168.57-162.86 93.099 0 168.57 72.914 168.57 162.86z" transform="matrix(.28792 0 0 .29802 -34.731 860.74)"/>
-<path stroke-width="25" d="m100 1002.4h32.833"/>
-<path stroke-width="25" d="m-35.744 1002.4h32.833"/>
-</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="122.51" width="168.58" viewBox="0 0 168.57699 122.50722"><g stroke="#000" fill="none"><path stroke-width="85.345" d="M462.86 475.22c0 89.944-75.472 162.86-168.57 162.86-93.1 0-168.57-72.914-168.57-162.86 0-89.944 75.472-162.86 168.57-162.86 93.1 0 168.57 72.914 168.57 162.86z" transform="matrix(.28792 0 0 .29802 1.013 -80.365)"/><path stroke-width="25" d="M135.744 61.295h32.833M0 61.295h32.833"/></g></svg>
